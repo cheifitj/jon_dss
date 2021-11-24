@@ -77,7 +77,7 @@
   ],
   "params": {
     "connection": "filesystem_managed",
-    "path": "/DKU_HAIKU_STARTER.Orders_filtered",
+    "path": "/HAIKU_STARTER_FOR_ADMINISTRATOR_BRANCH1.Orders_filtered",
     "notReadyIfEmpty": false,
     "filesSelectionRules": {
       "mode": "ALL",
